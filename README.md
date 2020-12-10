@@ -8,4 +8,4 @@ I'm Vinícius Barbosa, a passionate Full Stack Software Engineer 👨‍💻  cu
 - 🔭  I’m currently working with React and Node apps/systems
 - 🌱  I also have experience with Python (Django and Flask), Java, Angular and Adobe Experience Manager
 - 💬  Ask me about: tech, football (not american) and a little bit about investments
--  ⚡  Technologies: Javascript, TypeScript, React, Node, Express, React-Native, AEM, Python, Java
+-  ⚡  Technologies: Javascript, TypeScript, React, React-Native, Angular, Node, Express,AEM, Python, Java
