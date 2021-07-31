@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alencarvi@gmail.com)](mailto:alencarvi@gmail.com)
 
 ## Hi 👋, 
-I'm Vinícius Barbosa, a passionate Full Stack Software Engineer 👨‍💻  currently working at Compasso. I'm always curious about learning new technologies!
+I'm Vinícius Barbosa, a passionate Front-End Architect 👨‍💻  currently working at Compasso UOL. I'm always curious about learning new technologies!
 
 - 🔭  I’m currently working with Vue and Adobe Experience Manager
 - 🌱  I also have experience with Python (Django and Flask), Java, Node.js, Angular and React
