@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alencarvi@gmail.com)](mailto:alencarvi@gmail.com)
 
 ## Hi 👋, 
-I'm Vinícius Barbosa, a passionate Software Engineer from Brazil 👨‍💻  currently working as Systems Analyst at the Federal Data Processing Service of Brazil. I'm always curious about learning new technologies!
+I'm Vinícius Barbosa, a passionate Software Engineer from Brazil 👨‍💻  currently working as a Software Engineer at the Federal Data Processing Service of Brazil. I'm always curious about learning new technologies!
 
 - 🔭  I’m currently working with Javascript, Typescript, Angular, Java and Java Server Faces
 - 🌱  I also have experience with Python (Django and Flask), Node.js, React, React Native, Vue and Adobe Experience Manager
