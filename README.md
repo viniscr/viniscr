@@ -5,7 +5,7 @@
 ## Hi 👋, 
 I'm Vinícius Barbosa, a passionate Software Engineer from Brazil 👨‍💻  currently working as a Software Engineer at the Federal Data Processing Service of Brazil (SERPRO). I'm always curious about learning new technologies!
 
-- 🔭  I’m currently working with Javascript, Typescript, Angular, Java and Java Server Faces
+- 🔭  I’m currently working with Javascript, Typescript, Angular, Java, Spring Boot and Java Server Faces
 - 🌱  I also have experience with Python (Django and Flask), Node.js, React, React Native, Vue and Adobe Experience Manager
 - 💬  Ask me about: tech, football (not american) and a little bit about investments
 -  ⚡  Technologies: Javascript, TypeScript, React, React-Native, Angular, Vue.js, Node, Express, Adobe Experience Manager, Python, Java, Java Sever Faces
